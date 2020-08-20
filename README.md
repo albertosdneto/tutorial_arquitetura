@@ -9,8 +9,8 @@ A aplicação possui um módulo para buscar usuários do GitHub, cujo processo d
 - Faça o download ou clone o repositório.
 - Inicie um emulador de Android ou iOS.
 - Entre no diretório do projeto e digite os comando abaixo no terminal
-'''
+
+```shell
 flutter pub get
 flutter run
-'''
-
+```
