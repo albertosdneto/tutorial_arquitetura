@@ -1,16 +1,16 @@
 # tutorial_arquitetura
 
-A new Flutter application.
+Este tutorial tomou como base (transcreveu) o material contido nesta playlist [https://www.youtube.com/playlist?list=PLlBnICoI-g-d-v_fWlkZX2HRgHHPnJx9s], onde a implementação da aplicação ocorre do vídeo 4 em diante. 
 
-## Getting Started
+A aplicação possui um módulo para buscar usuários do GitHub, cujo processo de implementação ocorre respeitando a arquitetura sugerida e TDD. 
 
-This project is a starting point for a Flutter application.
+## Instruções
 
-A few resources to get you started if this is your first Flutter project:
+- Faça o download ou clone o repositório.
+- Inicie um emulador de Android ou iOS.
+- Entre no diretório do projeto e digite os comando abaixo no terminal
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```shell
+flutter pub get
+flutter run
+```
